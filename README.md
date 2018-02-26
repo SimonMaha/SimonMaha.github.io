@@ -1,2 +1,2 @@
-# SimonMaha.github.io
-First site
+# Sviatoslav Maha
+My homework
